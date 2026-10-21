@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="365" viewBox="0 0 1200 365" role="img" aria-labelledby="title desc">
+<title id="title">Connect with PRABHU</title>
+<desc id="desc">Animated dark navy, electric blue and crimson GitHub profile graphic for PRABHU.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#11182a"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#247bff" stop-opacity=".35"/><stop offset="1" stop-color="#ff354f" stop-opacity=".24"/></linearGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#7fa8ff" opacity=".18"/></pattern>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="round"><rect x="0" y="0" width="1200" height="365" rx="28"/></clipPath>
+</defs>
+<style>
+  .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}
+  .sans{font-family:Inter,Arial,sans-serif}
+  .muted{fill:#a9b7d0}
+  .white{fill:#f5f7ff}
+  .blue{fill:#60a5ff}
+  .red{fill:#ff6478}
+  .small{font-size:17px}
+  .label{font-size:13px;letter-spacing:3px;font-weight:700}
+  @media (prefers-reduced-motion: reduce) { .motion { animation:none !important; } }
+</style>
+<g clip-path="url(#round)">
+<rect width="1200" height="365" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="365" fill="url(#dots)"/>
+<rect x="1" y="1" width="1198" height="363" rx="27" fill="none" stroke="url(#line)" stroke-opacity=".7" stroke-width="2"/>
+
+<text x="48" y="55" class="mono blue label">04 / CONNECT</text>
+<text x="48" y="103" class="sans white" font-size="34" font-weight="800">Let's build something useful.</text>
+<!-- Simple illustrated pointing character placeholder -->
+<g transform="translate(70 125)">
+  <circle cx="100" cy="48" r="38" fill="#d6e1f7"/>
+  <path d="M62 42 Q66 2 100 7 Q134 5 139 42 L128 36 Q101 18 73 38 Z" fill="#101827"/>
+  <path d="M55 156 Q60 90 100 90 Q140 90 145 156 Z" fill="#182943" stroke="#60a5ff" stroke-width="2"/>
+  <path d="M135 106 Q177 80 207 61 L233 52" fill="none" stroke="#d6e1f7" stroke-width="15" stroke-linecap="round"/>
+  <path d="M224 52 L252 43" fill="none" stroke="#d6e1f7" stroke-width="9" stroke-linecap="round"/>
+  <path d="M224 52 L239 67" fill="none" stroke="#d6e1f7" stroke-width="8" stroke-linecap="round"/>
+  <text x="100" y="187" text-anchor="middle" class="mono blue" font-size="13">PRABHU</text>
+</g>
+<g transform="translate(405 138)">
+  <a href="https://www.instagram.com/____prabhu_rithan13____?rpxt=NmFiYXp0Ynd1NHNp" target="_blank">
+    <rect width="690" height="68" rx="17" fill="#101a2e" stroke="#ff354f" stroke-opacity=".8"/>
+    <circle cx="36" cy="34" r="17" fill="#ff354f" fill-opacity=".18" stroke="#ff6478"/>
+    <text x="68" y="29" class="sans white" font-size="19" font-weight="700">Instagram</text>
+    <text x="68" y="49" class="mono muted" font-size="13">@____prabhu_rithan13____</text>
+    <text x="650" y="41" class="sans red" font-size="22">↗</text>
+  </a>
+  <a href="https://t.me/+PzmGPBUX-OsyODVl" target="_blank">
+    <rect y="86" width="690" height="68" rx="17" fill="#101a2e" stroke="#247bff" stroke-opacity=".8"/>
+    <circle cx="36" cy="120" r="17" fill="#247bff" fill-opacity=".18" stroke="#60a5ff"/>
+    <text x="68" y="115" class="sans white" font-size="19" font-weight="700">Telegram</text>
+    <text x="68" y="135" class="mono muted" font-size="13">Open Telegram link</text>
+    <text x="650" y="127" class="sans blue" font-size="22">↗</text>
+  </a>
+  <text x="0" y="192" class="mono muted" font-size="13">Links are also provided as clickable text in README.md.</text>
+</g>
+
+</g>
+</svg>

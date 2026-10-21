@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">About PRABHU</title>
+<desc id="desc">Animated dark navy, electric blue and crimson GitHub profile graphic for PRABHU.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#11182a"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#247bff" stop-opacity=".35"/><stop offset="1" stop-color="#ff354f" stop-opacity=".24"/></linearGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#7fa8ff" opacity=".18"/></pattern>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="round"><rect x="0" y="0" width="1200" height="340" rx="28"/></clipPath>
+</defs>
+<style>
+  .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}
+  .sans{font-family:Inter,Arial,sans-serif}
+  .muted{fill:#a9b7d0}
+  .white{fill:#f5f7ff}
+  .blue{fill:#60a5ff}
+  .red{fill:#ff6478}
+  .small{font-size:17px}
+  .label{font-size:13px;letter-spacing:3px;font-weight:700}
+  @media (prefers-reduced-motion: reduce) { .motion { animation:none !important; } }
+</style>
+<g clip-path="url(#round)">
+<rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="340" fill="url(#dots)"/>
+<rect x="1" y="1" width="1198" height="338" rx="27" fill="none" stroke="url(#line)" stroke-opacity=".7" stroke-width="2"/>
+
+<text x="48" y="55" class="mono blue label">01 / ABOUT &amp; INTERESTS</text>
+<text x="48" y="103" class="sans white" font-size="34" font-weight="800">Curious by nature. Building by practice.</text>
+<text x="50" y="145" class="sans muted" font-size="19">I explore AI, coding and technology while working toward practical apps.</text>
+<g transform="translate(50 190)">
+  <rect width="330" height="112" rx="18" fill="#101a2e" stroke="#247bff" stroke-opacity=".65"/>
+  <text x="22" y="34" class="mono blue" font-size="14">01 / EXPLORE</text>
+  <text x="22" y="68" class="sans white" font-size="23" font-weight="700">Artificial Intelligence</text>
+  <text x="22" y="92" class="sans muted" font-size="15">Ideas, assistants, automation</text>
+</g>
+<g transform="translate(410 190)">
+  <rect width="330" height="112" rx="18" fill="#101a2e" stroke="#ff354f" stroke-opacity=".65"/>
+  <text x="22" y="34" class="mono red" font-size="14">02 / CREATE</text>
+  <text x="22" y="68" class="sans white" font-size="23" font-weight="700">Apps &amp; Experiences</text>
+  <text x="22" y="92" class="sans muted" font-size="15">Design, code, improve</text>
+</g>
+<g transform="translate(770 190)">
+  <rect width="380" height="112" rx="18" fill="#101a2e" stroke="#6b83b7" stroke-opacity=".65"/>
+  <text x="22" y="34" class="mono blue" font-size="14">03 / GROW</text>
+  <text x="22" y="68" class="sans white" font-size="23" font-weight="700">Always Learning</text>
+  <text x="22" y="92" class="sans muted" font-size="15">Python • Flutter • JavaScript</text>
+</g>
+<g class="motion">
+  <circle cx="1125" cy="55" r="7" fill="#ff354f"><animate attributeName="cy" values="55;66;55" dur="4s" repeatCount="indefinite"/></circle>
+</g>
+
+</g>
+</svg>

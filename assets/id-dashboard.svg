@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="365" viewBox="0 0 1200 365" role="img" aria-labelledby="title desc">
+<title id="title">PRABHU digital ID card</title>
+<desc id="desc">Animated dark navy, electric blue and crimson GitHub profile graphic for PRABHU.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#11182a"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#247bff" stop-opacity=".35"/><stop offset="1" stop-color="#ff354f" stop-opacity=".24"/></linearGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#7fa8ff" opacity=".18"/></pattern>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="round"><rect x="0" y="0" width="1200" height="365" rx="28"/></clipPath>
+</defs>
+<style>
+  .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}
+  .sans{font-family:Inter,Arial,sans-serif}
+  .muted{fill:#a9b7d0}
+  .white{fill:#f5f7ff}
+  .blue{fill:#60a5ff}
+  .red{fill:#ff6478}
+  .small{font-size:17px}
+  .label{font-size:13px;letter-spacing:3px;font-weight:700}
+  @media (prefers-reduced-motion: reduce) { .motion { animation:none !important; } }
+</style>
+<g clip-path="url(#round)">
+<rect width="1200" height="365" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="365" fill="url(#dots)"/>
+<rect x="1" y="1" width="1198" height="363" rx="27" fill="none" stroke="url(#line)" stroke-opacity=".7" stroke-width="2"/>
+
+<text x="48" y="55" class="mono blue label">03 / DIGITAL ID</text>
+<text x="48" y="103" class="sans white" font-size="34" font-weight="800">Builder in progress.</text>
+<g transform="translate(390 35)">
+  <path d="M190 0 L190 30" stroke="#b8c6de" stroke-width="4"/>
+  <rect x="171" y="22" width="38" height="18" rx="8" fill="#66758e" stroke="#d9e3f5"/>
+  <rect x="0" y="40" width="390" height="245" rx="22" fill="#0c1322" stroke="url(#line)" stroke-width="2"/>
+  <rect x="14" y="54" width="362" height="217" rx="15" fill="#101a2e" stroke="#273b5d"/>
+  <text x="34" y="82" class="mono blue" font-size="12" letter-spacing="2">CODEBYPRABHU / ID</text>
+  <circle cx="76" cy="143" r="34" fill="#1c2c48" stroke="#60a5ff" stroke-width="2"/>
+  <circle cx="76" cy="133" r="11" fill="#d6e1f7"/>
+  <path d="M53 166 Q55 145 76 145 Q97 145 99 166" fill="#243b5e"/>
+  <text x="126" y="132" class="sans white" font-size="25" font-weight="800">PRABHU</text>
+  <text x="126" y="157" class="mono muted" font-size="12">AI &amp; APP DEVELOPER</text>
+  <text x="34" y="207" class="mono muted" font-size="12">TAMIL NADU, INDIA</text>
+  <path d="M34 225 H356" stroke="#2b3d5b"/>
+  <g fill="#e8efff">
+    <rect x="34" y="238" width="3" height="18"/><rect x="41" y="238" width="2" height="18"/><rect x="47" y="238" width="5" height="18"/><rect x="56" y="238" width="2" height="18"/><rect x="62" y="238" width="4" height="18"/><rect x="70" y="238" width="2" height="18"/><rect x="77" y="238" width="6" height="18"/><rect x="87" y="238" width="2" height="18"/><rect x="93" y="238" width="4" height="18"/><rect x="101" y="238" width="2" height="18"/><rect x="107" y="238" width="5" height="18"/><rect x="116" y="238" width="2" height="18"/><rect x="123" y="238" width="4" height="18"/><rect x="131" y="238" width="2" height="18"/><rect x="137" y="238" width="6" height="18"/><rect x="147" y="238" width="2" height="18"/><rect x="153" y="238" width="4" height="18"/><rect x="161" y="238" width="2" height="18"/><rect x="167" y="238" width="5" height="18"/><rect x="176" y="238" width="2" height="18"/><rect x="183" y="238" width="4" height="18"/>
+  </g>
+  <path d="M-15 64 L385 245" stroke="#fff" stroke-opacity=".08" stroke-width="18">
+    <animate attributeName="stroke-opacity" values=".02;.17;.02" dur="5s" repeatCount="indefinite"/>
+  </path>
+</g>
+<text x="600" y="327" text-anchor="middle" class="mono muted" font-size="14">ILLUSTRATED AVATAR PLACEHOLDER — REPLACE WITH YOUR PORTRAIT</text>
+
+</g>
+</svg>
