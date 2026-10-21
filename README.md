@@ -1,53 +1,68 @@
 
 <div align="center">
 
+<img src="assets/hero.svg" width="100%" alt="PRABHU - AI and App Developer" />
+
 # ⚡ PRABHU
 
-### `AI DEVELOPER • TECH ENTHUSIAST • BUILDER`
+### AI & App Developer • Tech Enthusiast • Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Building+Jarvis+AI;Turning+Ideas+Into+Code" />
+📍 Tamil Nadu, India
 
-<img src="https://img.shields.io/badge/FOCUS-JARVIS%20AI-00BFFF?style=for-the-badge&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/PROFILE-CODEBYPRABHU-111111?style=for-the-badge&logo=github&logoColor=white" />
+[![Instagram](https://img.shields.io/badge/Instagram-Connect-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/____prabhu_rithan13____?rpxt=NmFiYXp0Ynd1NHNp)
+[![Telegram](https://img.shields.io/badge/Telegram-Connect-26A5E4?logo=telegram&logoColor=white)](https://t.me/+PzmGPBUX-OsyODVl)
 
 </div>
 
 ---
 
-## 👨‍💻 ABOUT ME
+<img src="assets/about-life.svg" width="100%" alt="About Prabhu" />
 
-- 🚀 Exploring AI assistants and application development
-- 🤖 Working towards a personal Jarvis AI project
-- 💻 Learning Python, JavaScript, HTML and CSS
-- 🎯 Building useful projects and improving my skills
+## 👨‍💻 About Me
 
-## 🛠️ TECH STACK
+- 🤖 Exploring AI assistants and application development.
+- 🚀 Working on my personal **Jarvis AI** project.
+- 💻 Learning and building with Python, Flutter, JavaScript, HTML and CSS.
+- 🌱 Interested in AI, coding and technology.
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,flutter,git,github,vscode" />
+---
 
-## 🚀 FEATURED PROJECT
+<img src="assets/stack.svg" width="100%" alt="Technology stack" />
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+<img src="assets/id-dashboard.svg" width="100%" alt="Developer dashboard" />
+
+## 🚀 Featured Project
 
 ### 🤖 Jarvis AI
+
 A personal AI assistant project — currently in development.
 
-[![GitHub](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/CodeByPrabhu?tab=repositories)
+---
 
-## 📊 GITHUB STATS
+## 📊 GitHub Activity
 
-<div align="center">
+![GitHub Profile](https://github-readme-stats.vercel.app/api?username=CodeByPrabhu&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeByPrabhu&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByPrabhu&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByPrabhu&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
+
+<img src="assets/connect.svg" width="100%" alt="Connect with Prabhu" />
 
 <div align="center">
 
 ### ⚡ CODE • CREATE • INNOVATE
 
-**Thanks for visiting — PRABHU**
+Thanks for visiting — **PRABHU** 👋
 
 </div>
