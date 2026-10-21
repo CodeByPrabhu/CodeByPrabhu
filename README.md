@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**CodeByPrabhu/CodeByPrabhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm PRABHU
 
-Here are some ideas to get you started:
+### 🚀 Developer | AI Enthusiast | Tech Explorer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+- 🤖 Currently exploring AI and Jarvis AI projects
+- 💻 Interested in app and web development
+- 🌱 Learning new technologies every day
+- 🎯 Goal: Build useful AI-powered applications
+
+### 🛠️ Technologies & Tools
+- Python
+- JavaScript
+- HTML & CSS
+- Flutter
+- Git & GitHub
+
+### 📌 My Projects
+- 🤖 Jarvis AI — Personal AI assistant *(in progress)*
+
+### 🤝 Connect With Me
+- GitHub: [@CodeByPrabhu](https://github.com/CodeByPrabhu)
+
+---
+⭐ Thanks for visiting my profile!
